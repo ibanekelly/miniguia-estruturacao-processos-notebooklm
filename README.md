@@ -80,21 +80,14 @@ As ferramentas não competem entre si; atuam de forma complementar em cada fase 
 9. **Baseline (Linha de Base)** | Medição inicial de indicadores (tempo, erros, custo) usada como referência para medir a evolução.
   
 ## Prompts Reutilizáveis
-
-**Prompt:** "Preciso relembrar rapidamente o ciclo de estruturação de processos. Gere um checklist em tópicos contendo:
+- **Prompt:** "Preciso relembrar rapidamente o ciclo de estruturação de processos. Gere um checklist em tópicos contendo:
   - As 6 fases metodológicas do planejamento à governança
   - Os 5 pilares de sustentação
   - A função de cada ferramenta (SIPOC, BPMN, Ishikawa e 5W2H) de forma resumida."
 
-**Quando usar:** Antes de uma reunião de trabalho, apresentação ou entrevista, para ter um panorama completo em menos de 2 minutos de leitura.
-
-**Prompt:** "Estou mapeando um processo real de [inserir o processo]. Com base nas boas práticas do caderno:
+- **Prompt:** "Estou mapeando um processo real de [inserir o processo]. Com base nas boas práticas do caderno:
   - Estruture uma tabela SIPOC sugerida para este fluxo
   - Indique se devo adotar uma abordagem preventiva ou corretiva
   - Aponte 2 indicadores (KPIs) essenciais para monitorar esse processo."
-    
-**Quando usar:** Sempre que você for começar a organizar um departamento ou fluxo novo na sua empresa ou portfólio.
 
-**Prompt:** "Identifiquei o seguinte problema no meu processo operacional: [descrever a falha]. Me ajude a aplicar o Diagrama de Ishikawa (6M) e a técnica dos 5 Porquês para encontrar a causa raiz desse gargalo, e em seguida estruture 2 ações corretivas no formato 5W2H."
-
-**Quando usar:** No dia a dia profissional, quando uma rotina estiver travando e você precisar destravar o fluxo com base em ferramentas consagradas da qualidade.
+- **Prompt:** "Identifiquei o seguinte problema no meu processo operacional: [descrever a falha]. Me ajude a aplicar o Diagrama de Ishikawa (6M) e a técnica dos 5 Porquês para encontrar a causa raiz desse gargalo, e em seguida estruture 2 ações corretivas no formato 5W2H."
