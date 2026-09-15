@@ -92,7 +92,7 @@ As ferramentas não competem entre si; atuam de forma complementar em cada fase 
   - Estruture uma tabela SIPOC sugerida para este fluxo
   - Indique se devo adotar uma abordagem preventiva ou corretiva
   - Aponte 2 indicadores (KPIs) essenciais para monitorar esse processo."
-  - 
+    
 **Quando usar:** Sempre que você for começar a organizar um departamento ou fluxo novo na sua empresa ou portfólio.
 
 **Prompt:** "Identifiquei o seguinte problema no meu processo operacional: [descrever a falha]. Me ajude a aplicar o Diagrama de Ishikawa (6M) e a técnica dos 5 Porquês para encontrar a causa raiz desse gargalo, e em seguida estruture 2 ações corretivas no formato 5W2H."
